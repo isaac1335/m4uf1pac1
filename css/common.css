@@ -1,0 +1,47 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+header{
+    height: 25vh;
+    background-repeat: no-repeat;
+    display: flex;
+}
+#logo {
+    width: 50vh;
+    margin-top: 5vh;
+    margin-left: 5vh;
+}
+li {
+    float: left;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 12vh;
+}
+.apartados {
+    text-decoration: none;
+    color:  white;
+    border: 3px solid white;
+    border-radius: 5px;
+    padding: 2vh;
+    font-size: 15px;
+
+}
+ul{
+    margin-top: 12vh;
+}
+p{
+    color: white;
+}
+footer{
+    display: flex;
+}
+.logoredes{
+    width: 6vh;
+    margin: 3vh;
+}
+#copyright{
+    margin-top: 5vh;
+    margin-left: 37%;
+}

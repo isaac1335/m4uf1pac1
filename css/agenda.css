@@ -1,0 +1,17 @@
+td{
+    color: white;
+    padding: 1.5vh;   
+    border: white solid 2px;
+    text-align: center;
+}
+table{
+    margin-left: 60vh;
+    margin-top: 4vh;
+}
+.temporadas{
+    margin-left: 5vh;
+    color: red;
+}
+.episodios{
+    color: red;
+}

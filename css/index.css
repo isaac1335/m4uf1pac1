@@ -1,0 +1,17 @@
+#personajes {
+    float: left;
+    width: 70vh;
+    margin-left: 8vh;
+}
+main{
+    display: flex;
+    margin-top: 8vh;
+}
+#texto p{
+    float: left;
+    margin-bottom: 11vh;
+    margin-left: 11vh;
+}
+#primerp{
+    margin-top: 12vh;
+}
